@@ -4,6 +4,9 @@ This is my first project, this is a calculator that performs binary conversion a
 incruction: 
 
 git clone https://github.com/Whoami304/TermMath
+
 cd TermMath
+
 g++ main.cpp
+
 ./a.out
